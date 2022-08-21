@@ -9,7 +9,7 @@
 - [Demo](#demo)
 
 ## Description
-This application acts as a <b><i>factory</i></b>&nbsp for generating a large number of red and blue balls which move around the screen in random patterns.  There is logic to ensure each ball does not go outside of the box container on the page.
+This application acts as a <b><i>factory</i></b> for generating a large number of red and blue balls which move around the screen in random patterns.  There is logic to ensure each ball does not go outside of the box container on the page.
 
 <img src="./images/BigBang.png">
 
